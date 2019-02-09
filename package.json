@@ -1,0 +1,23 @@
+{
+  "name": "nodejscrudexample",
+  "version": "1.0.0",
+  "description": "crud example",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcrud"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BABURAJAN/node_crud_exapmle.git"
+  },
+  "author": "babu_rajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BABURAJAN/node_crud_exapmle/issues"
+  },
+  "homepage": "https://github.com/BABURAJAN/node_crud_exapmle#readme",
+  "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^4.16.4"
+  }
+}
